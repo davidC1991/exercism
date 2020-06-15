@@ -270,7 +270,7 @@ diccionario.copy()
 
 # Diccionario Anidado
 
-diccionario = {
+dic = {
         'nombre':'Roberto', 
        'apellido': 'Morales',
        'hobbies':{
